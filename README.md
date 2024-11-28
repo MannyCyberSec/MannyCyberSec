@@ -2,7 +2,7 @@
 
 Welcome to **MannyCyberSec**! 🚀
 
-This repository is dedicated to showcasing my work in cybersecurity. Here, you'll find various projects and tools I've developed, demonstrating my skills and passion for the field. Whether you're a potential employer or a fellow cybersecurity enthusiast, I hope you find my work engaging and informative.
+This repository is dedicated to showcasing my journey in cybersecurity. Here, you'll find various projects and tools I've developed, demonstrating my skills and passion for the field. Whether you're a potential employer or a fellow cybersecurity enthusiast, I hope you find my work engaging and informative.
 
 ## 🛠️ Projects
 
